@@ -1,2 +1,2 @@
 # gitskills
-Git is a free software.
+git git git !
