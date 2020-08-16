@@ -1,2 +1,2 @@
-#vulcan.py by tangjiawan
+//vulcan.py by tangjiawan
 print("vulcan flying!")
